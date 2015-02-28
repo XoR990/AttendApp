@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">AttendApp</string>
 
-    <string name="hello_world">Hello world!</string>
+    <string name="hello_world">Hello evan!</string>
     <string name="action_settings">Settings</string>
+    <string name="button_1_text">Action</string>
 </resources>
